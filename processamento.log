@@ -1,0 +1,3 @@
+INFO:root:Dados do arquivo C:/Users/User/Documents/GitHub/processoseletivo-teste/airflow-docker/dags/etl_scripts/data_lake_home/atendimentos/a_processar\Teste.csv inseridos na tabela nome_da_tabela com sucesso.
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: b06752ee-4ef6-4d3f-bd46-9cfdd2cffb3c

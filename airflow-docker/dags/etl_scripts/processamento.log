@@ -1,0 +1,14 @@
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home/atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home/atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home/atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home/atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home//atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home//atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.
+ERROR:root:Nenhum arquivo CSV encontrado na pasta de processamento.
+INFO:root:Dados do arquivo c:\Users\User\Documents\GitHub\processoseletivo-teste\airflow-docker\dags\etl_scripts/data_lake_home//atendimentos/a_processar\Teste.csv inseridos na tabela atendimentos com sucesso.

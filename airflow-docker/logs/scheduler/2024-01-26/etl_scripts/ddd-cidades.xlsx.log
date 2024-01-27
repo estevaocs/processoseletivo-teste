@@ -1,0 +1,30 @@
+[2024-01-26T17:09:11.776+0000] {processor.py:153} INFO - Started process (PID=20170) to work on /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:09:11.777+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx for tasks to queue
+[2024-01-26T17:09:11.779+0000] {logging_mixin.py:137} INFO - [2024-01-26T17:09:11.778+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:09:11.790+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:09:11.804+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx took 0.031 seconds
+[2024-01-26T17:09:42.094+0000] {processor.py:153} INFO - Started process (PID=20204) to work on /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:09:42.095+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx for tasks to queue
+[2024-01-26T17:09:42.096+0000] {logging_mixin.py:137} INFO - [2024-01-26T17:09:42.095+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:09:42.107+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:09:42.121+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx took 0.030 seconds
+[2024-01-26T17:10:12.400+0000] {processor.py:153} INFO - Started process (PID=20238) to work on /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:10:12.401+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx for tasks to queue
+[2024-01-26T17:10:12.402+0000] {logging_mixin.py:137} INFO - [2024-01-26T17:10:12.402+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:10:12.414+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:10:12.431+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx took 0.034 seconds
+[2024-01-26T17:10:42.761+0000] {processor.py:153} INFO - Started process (PID=20288) to work on /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:10:42.762+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx for tasks to queue
+[2024-01-26T17:10:42.763+0000] {logging_mixin.py:137} INFO - [2024-01-26T17:10:42.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:10:42.777+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:10:42.799+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx took 0.043 seconds
+[2024-01-26T17:11:13.091+0000] {processor.py:153} INFO - Started process (PID=20322) to work on /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:11:13.092+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx for tasks to queue
+[2024-01-26T17:11:13.093+0000] {logging_mixin.py:137} INFO - [2024-01-26T17:11:13.093+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:11:13.107+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:11:13.124+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx took 0.036 seconds
+[2024-01-26T17:11:43.407+0000] {processor.py:153} INFO - Started process (PID=20356) to work on /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:11:43.409+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx for tasks to queue
+[2024-01-26T17:11:43.410+0000] {logging_mixin.py:137} INFO - [2024-01-26T17:11:43.410+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:11:43.430+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx
+[2024-01-26T17:11:43.449+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/ddd-cidades.xlsx took 0.045 seconds

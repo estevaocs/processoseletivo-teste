@@ -1,0 +1,42 @@
+[2024-01-26T15:39:04.091+0000] {processor.py:153} INFO - Started process (PID=13158) to work on /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:39:04.092+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/dl_local_settings.py for tasks to queue
+[2024-01-26T15:39:04.093+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:39:04.093+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:39:04.129+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:39:04.145+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/dl_local_settings.py took 0.057 seconds
+[2024-01-26T15:39:34.403+0000] {processor.py:153} INFO - Started process (PID=13192) to work on /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:39:34.404+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/dl_local_settings.py for tasks to queue
+[2024-01-26T15:39:34.405+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:39:34.405+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:39:34.462+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:39:34.487+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/dl_local_settings.py took 0.087 seconds
+[2024-01-26T15:40:04.787+0000] {processor.py:153} INFO - Started process (PID=13235) to work on /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:40:04.789+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/dl_local_settings.py for tasks to queue
+[2024-01-26T15:40:04.791+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:40:04.791+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:40:04.816+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:40:04.848+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/dl_local_settings.py took 0.065 seconds
+[2024-01-26T15:40:35.130+0000] {processor.py:153} INFO - Started process (PID=13276) to work on /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:40:35.132+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/dl_local_settings.py for tasks to queue
+[2024-01-26T15:40:35.133+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:40:35.133+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:40:35.154+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:40:35.172+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/dl_local_settings.py took 0.046 seconds
+[2024-01-26T15:41:05.464+0000] {processor.py:153} INFO - Started process (PID=13310) to work on /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:41:05.465+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/dl_local_settings.py for tasks to queue
+[2024-01-26T15:41:05.468+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:41:05.468+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:41:05.492+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:41:05.515+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/dl_local_settings.py took 0.057 seconds
+[2024-01-26T15:41:13.514+0000] {processor.py:153} INFO - Started process (PID=13327) to work on /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:41:13.516+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/etl_scripts/dl_local_settings.py for tasks to queue
+[2024-01-26T15:41:13.517+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:41:13.517+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:41:13.588+0000] {logging_mixin.py:137} INFO - [2024-01-26T15:41:13.557+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/etl_scripts/dl_local_settings.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/etl_scripts/dl_local_settings.py", line 13
+    origem = C:/Users/User/Documents/GitHub/processoseletivo-teste/airflow-docker/dags/etl_scripts/data_lake_home/atendimentos/a_processar
+              ^
+SyntaxError: invalid syntax
+[2024-01-26T15:41:13.589+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/etl_scripts/dl_local_settings.py
+[2024-01-26T15:41:13.648+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/etl_scripts/dl_local_settings.py took 0.139 seconds
